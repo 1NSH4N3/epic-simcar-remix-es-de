@@ -28,7 +28,7 @@ The theme has images from:
 - Dan Patricks Logo set on launchbox forums
 - Weestuarty theme SimCar
 - antfortytwo, dragoonDorise, c64-dev and Chicuelo theme Epic Noir (Revisited)
-Support for creating theme from the official emulationstation discord
+- Support for creating theme from the official emulationstation discord.
 
 # License
 
