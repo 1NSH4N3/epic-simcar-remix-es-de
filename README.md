@@ -1,6 +1,6 @@
 # Epic Simcar Remix for EmulationStation Desktop Edition v2.0
 
-A Remix between Epic Noir (Revisited) and SimCar theme set for ES-DE.
+A Remix between Epic Noir (Revisited) and SimCar Carousel theme set for ES-DE.
 
 ![systems](system.png)
 ![games](game.png)
@@ -25,7 +25,7 @@ Dark color scheme
 
 All the credit of the images is given to the original authors.
 The theme has images from:
-- Dan Patricks Svg Logo set on launchbox forums
+- Dan Patricks Logo set on launchbox forums
 - Weestuarty theme SimCar
 - antfortytwo, dragoonDorise, c64-dev and Chicuelo theme Epic Noir (Revisited)
 Support for creating theme from the official emulationstation discord
