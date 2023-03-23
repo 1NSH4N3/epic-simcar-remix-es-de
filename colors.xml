@@ -1,0 +1,9 @@
+<theme>
+    <colorScheme name="mono">
+        <variables>
+            <colorSchemeName>mono</colorSchemeName>
+            <backgroundColor>000000</backgroundColor>
+            <outlineColor1>FFFFFF</outlineColor1>
+        </variables>
+    </colorScheme>
+</theme>
